@@ -55,6 +55,7 @@
                 }
 
                 let voice = this.voices.find(v => v.lang === lang)
+
                 if (!voice) {
                     return reject(new Error(`No voice available for language '${lang}'`))
                 }
@@ -67,11 +68,11 @@
                 })
 
                 let onStart = () => {
-                    console.log('starting utterance: ' + text)
+                    console.log('saying: ' + text)
                 }
 
                 let onEnd = () => {
-                    console.log('finished utterance: ' + text)
+                    console.log('done: ' + text)
                     resolve()
                 }
 

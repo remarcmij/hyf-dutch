@@ -4,8 +4,29 @@
   "description": "Learning Dutch for Hack Your Future students",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./server/server.js mongo",
+    "test": "nodemon --exec 'mocha -R min'",
+    "loader": "node ./cli/loadfiles.js"
   },
-  "author": "Hack Your Future",
-  "license": "ISC"
+  "author": "Hack Your Future, Amsterdam",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-animate": "^1.6.1",
+    "angular-aria": "^1.6.1",
+    "angular-material": "^1.1.1",
+    "angular-ui-router": "^1.0.0-rc.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "glob": "^7.1.1",
+    "marked": "^0.3.6",
+    "mongodb": "^2.2.19",
+    "xregexp": "^3.1.1"
+  }
 }

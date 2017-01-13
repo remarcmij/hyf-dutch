@@ -12,6 +12,8 @@ en
 er
 had
 heb
+hebt
+heeft
 hem
 het
 hij
@@ -44,5 +46,7 @@ zal
 ze
 zei
 zij
+zijn
 zo
 zou
+zijn

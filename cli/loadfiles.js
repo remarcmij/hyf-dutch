@@ -4,14 +4,17 @@ const path = require('path')
 const glob = require('glob')
 
 const database = require('../server/mongo.database')
+const parser = require('./parser')
 
 function loadDocuments() {
+    parser.initialize('en', 'nl')
+
     database.openDatabase()
-        .then(() => database.dropFileEntriesCollection())
+        .then(() => database.dropFileEntryCollection())
+        .then(() => database.dropLemmaCollection())
         .then(() => getFileNames())
-        .then(fileNames => {
-            return sequence(fileNames, loadDocument)
-        })
+        .then(fileNames => sequence(fileNames, loadDocument))
+        .then(() => database.ensureIndexes())
         .then(() => {
             process.exit()
         })
@@ -19,12 +22,11 @@ function loadDocuments() {
             console.log(err)
             process.exit()
         })
-
 }
 
 function getFileNames() {
     return new Promise((resolve, reject) => {
-        let globPattern = path.join(__dirname, '../docs', '*.md')
+        let globPattern = path.join(__dirname, '../data', '*.md')
         glob(globPattern, (err, files) => {
             if (err) {
                 reject(err)
@@ -42,15 +44,17 @@ function sequence(array, doWork) {
 }
 
 function loadDocument(filePath) {
+    console.log(`loading ${filePath} ...`)
     return readFile(filePath)
         .then(content => {
-            console.log(filePath)
-            database.addFileEntry({
-                fileName: path.basename(filePath),
-                title: 'some title'
-            })
+            let result = parser.parseFile(content)
+            let fileName = path.basename(filePath, '.md')
+            return database.addFileEntry({
+                fileName,
+                title: result.title,
+                subtitle: result.subtitle
+            }).then(() => database.insertLemmas(fileName, result.lemmas))
         })
-
 }
 
 function readFile(filePath) {
@@ -64,5 +68,6 @@ function readFile(filePath) {
         })
     })
 }
+
 
 loadDocuments()

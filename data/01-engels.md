@@ -1,6 +1,6 @@
-# Good to know
+# 1 Good to know
 
-## 1.3 Practical 
+## 1.3 The Basics
 
 ### How do you ask a question?
 

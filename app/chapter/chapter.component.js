@@ -4,24 +4,35 @@
     class DocumentController {
 
         static get $inject() {
-            return ['speechService']
+            return ['$sce', 'speechService']
         }
 
-        constructor(speechService) {
+        constructor($sce, speechService) {
+            this.$sce = $sce
             this.speechService = speechService
         }
 
-        $postLink() {
-            this.safeHtml = this.article
+        $onInit() {
+            this.safeHtml = this.$sce.trustAs('html', this.content)
+        }
+
+        onClick(ev) {
+            if (this.speechService.isSpeechSynthesisSupported()) {
+                let target = ev.target;
+                if (target.tagName === 'SPAN') {
+                    let text = target.innerText.trim()
+                    this.speechService.speak(text, 'nl-NL')
+                }
+            }
         }
 
     }
 
     angular.module('app')
-        .component('appDocument', {
-            template: `<article id="article" ng-bind-html="$ctrl.safeHtml" ng-click="$ctrl.onClick($event)"></article>`,
-            bind: {
-                article: '<'
+        .component('appChapter', {
+            templateUrl: 'app/chapter/chapter.component.html',
+            bindings: {
+                content: '<'
             },
             controller: DocumentController
         })

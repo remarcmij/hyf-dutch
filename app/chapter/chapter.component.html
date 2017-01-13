@@ -1,0 +1,17 @@
+<div flex layout="column" layout-fill>
+  <md-toolbar class="md-whiteframe-2dp">
+    <div class="md-toolbar-tools" layout="row" flex-offset-gt-sm="20" flex-gt-sm="60">
+      <md-button class="md-icon-button" ui-sref="home">
+        <md-icon md-font-set="material-icons">arrow_back</md-icon>
+      </md-button>
+      <h2 class="md-title">Hack Your Dutch</h2>
+    </div>
+  </md-toolbar>
+
+  <md-content flex>
+    <div layout-padding flex-offset-gt-sm="20" flex-gt-sm="60">
+      <article class="hyf-article md-whiteframe-3dp" layout-margin ng-bind-html="$ctrl.safeHtml"
+               ng-click="$ctrl.onClick($event)"></article>
+    </div>
+  </md-content>
+</div>

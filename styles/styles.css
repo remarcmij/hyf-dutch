@@ -1,0 +1,38 @@
+body {
+  font-family: 'Helvetica Neue', 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+strong>span {
+  cursor: pointer;
+  color:  #3F51B5;
+}
+
+article:focus {
+  outline: none;
+}
+
+.hyf-article {
+  color: rgb(55, 58, 60);
+}
+
+.hyf-article h1 {
+  font-size: 36px;
+}
+
+.hyf-article h2 {
+  font-size: 30px;
+}
+
+.hyf-article h3 {
+  font-size: 24px;
+}
+
+.hyf-article h4 {
+  font-size: 18px;
+}
+
+.hyf-article h5 {
+  font-size: 15px;
+}

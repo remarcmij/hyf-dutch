@@ -13,11 +13,20 @@
 
         getFileEntries() {
             return this.$http({
-                url: '/files',
+                url: '/file',
                 method: 'GET',
                 cache: true
             }).then(resp => resp.data.files)
-                .catch(err => this.handleFailure(err, this.getAllPeople));
+                .catch(err => this.handleFailure(err, this.getFileEntries));
+        }
+
+        getFile(fileName) {
+            return this.$http({
+                url: '/file/' + fileName,
+                method: 'GET',
+                cache: true
+            }).then(resp => resp.data.content)
+                .catch(err => this.handleFailure(err, this.getFile));
         }
 
         handleFailure(e, caller) {
@@ -31,6 +40,6 @@
         }
     }
 
-    angular.module('myAppp')
+    angular.module('app')
         .service('backendService', BackendService);
 }())

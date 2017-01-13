@@ -1,7 +1,9 @@
 <md-toolbar class="md-whiteframe-2dp">
-  <h2>Hack Your Dutch</h2>
+  <div class="md-toolbar-tools" layout="row" flex-offset-gt-sm="20" flex-gt-sm="60">
+    <h2 class="md-title">Hack Your Dutch</h2>
+  </div>
 </md-toolbar>
 
 <md-content>
-  <md-button class="md-raised md-primary" ng-click="$ctrl.onClick()">Speak</md-button>
+  <ng-view></ng-view>
 </md-content>

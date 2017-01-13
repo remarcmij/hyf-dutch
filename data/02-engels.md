@@ -287,389 +287,349 @@ stamps
 - Who is this, please?
 **Met wie spreek ik?**
 
-Spreek ik met .. .?
+- Is this ...?
+**Spreek ik met ...?**
 
-Is this .. .? iz Dis .. ,?
+- I'm sorry, I've made a mistake
+**Sorry, ik heb het verkeerde nummer getoetst**
 
-Sorry, ik heb het verkeerde nummer getoetst I'm sorry, I've made a mis take
+- I can't hear you
+**Ik kan u niet verstaan**
 
-ajm sorrie, ajv meed amisteek
+- I'd like to speak to ...
+**Ik wil graag spreken met ...**
 
-Ik kan u niet verstaan
+- Is there somebody who speaks Dutch?
+**Is er iemand die Nederlands spreekt?**
 
-I can't he ar you
+- Extension ... please
+**Mag ik toestel ... van u?**
 
-aj kahnt hi» joe
+- Could you ask him/her to call me back?
+**Wilt u vragen of hij/zij me terugbelt?**
 
-Ik wil graag spreken met .. , I'd like to speak to .. ,
+- My name's ... My number's ...
+**Mijn naam is ... Mijn nummer is ...**
 
-ajd lajk toe spiek toe .. ,
+- Could you tell him/her I called?
+**Wilt u zeggen dat ik gebeld heb?**
 
-Is er iemand die Nederlands spreekt?
+- I'll call back tomorrow
+**Ik bel hem/haar morgen terug**
 
-Is there somebody who speaks Dutch? iz Des sumboddie hoe spieks dutsj?
+---
 
-Mag ik toestel, .. van u?
+- **Er is telefoon voor u**
+There's a phone call for you
 
-Extension .. " please ihstensjn .. " pliez
+- **U moet eerst een nul toetsen**
+You have to press '0' first
 
-Wilt u vragen of hij/zij me terugbelt?
+- **Hebt u een momentje?**
+One moment, please 
 
-Could you ask himlher to call me back? koed joe ahsk himlhuh toe kohl mie bek?
+- **Ik krijg geen gehoor**
+There's no answer
 
-Mijn naam is ... Mijn nummer is ...
+- **Het toestel is bezet**
+The line's engaged
 
-My name's .. ' My number's .. , maj neemz '" maj ny.mbar iz '"
+- **Wilt u wachten?**
+Do you want to hold?
 
-Wilt u zeggen dat ik gebeld heb?
+- **Ik verbind u door**
+Putting you through
 
-Could you tell himlher I called? koed joe tel himlhuh aj kohld?
+- **U hebt een verkeerd nummer**
+You've got a wrong number
 
-Ik bel hem/haar morgen terug I'll call back tomorrow
+- **Hij/zij is op het ogenblik niet aanwezig**
+He's/she's not here right now
 
-ajl kohl bek temçrroo
+- **Hij/zij is ... weer te bereiken**
+He'll/she'll be back ...
 
-There's a phone call for you Er is telefoon voor u
+- **Dit is het automatisch antwoordapparaat van ...**
+This is the answering machine of ... 
 
-You have to press '0' fust U moet eerst een nul toetsen
+## 2.4 Internet
 
-One moment, please Hebt u een momentje?
+- Where can I get access to the internet?
+**Waar kan ik toegang tot internet krijgen?**
 
-There's no answer Ik krijg geen gehoor
+- Do you have (free) wireless internet?
+**Is er (gratis) draadloos internet?**
 
-The line's engaged Het toestel is bezet
+- What is the password to get on the internet?
+**Wat is het wachtwoord om internetverbinding te krijgen?**
 
-Do you want to hold? Wilt u wachten?
+- Is there an internet cafe?
+**Is er een internetcafé?**
 
-Putting you through Ik verbind u door
+- Where can I open my e-mail?
+**Waar kan ik mijn e-mail bekijken?**
 
-You've got a wrong number U hebt een verkeerd nummer
+- How much is the use of a computer per half hour/hour?
+**Hoeveel kost het gebruik van een computer per halfuur/uur?**
 
-He's/she's not here right now Hij/zij is op het ogenblik niet aanwezig
+## 2.5 Photo and video
 
-He'lllshe'll be back", Hij/zij is .. , weer te bereiken
+- Have you got a memory card for this camera?
+**Ik ben op zoek naar een geheugenkaart voor deze camera**
 
-This is the answering machine of", Dit is het automatisch antwoordapparaat
+- I'd like a memory card of ... MB/GB
+**Ik wil graag een geheugenkaart van ... MB/GB**
 
-van .. ,
+- How many pictures can I take with this memory card?
+**Hoeveel foto's kan ik met deze geheugenkaart maken?**
 
-2.4 Internet
+- Can I have a new battery for this camera, please?
+**Ik wil graag een nieuwe accu voor deze camera**
 
-Waar kan ik toegang tot internet krijgen?
+- Have you got disposable cameras?
+**Hebt u ook wegwerpcamera's?**
 
-Where can I get access to the internet? wea ken aj get !l_kses toe Di intmet?
+- Have you got mini-DV-tapes/dvd's for this camera?
+**Ik ben op zoek naar mini-DV-tapes/dvd's voor deze camera**
 
-Is er [gratis) draadloos internet?
+- Have you got AA/AAA batteries?
+**Hebt u ook AA/AAA-batterijen?**
 
-Do you have (free) wireless internet? doe joe hev (frie) wgjlas intsnet?
+- Have you got battery cells?
+**Hebt u ook knoopcelbatterijen?**
 
-Wat is het wachtwoord om internetverbinding te krijgen?
+- Have you got rechargable batteries?
+**Hebt u ook oplaadbare batterijen?**
 
-What is the password to get on the internet? uiots De pqhsuiuhd ts gel on Di intenet?
+- I'd like to have a battery charger
+**Ik zoek een batterijoplader**
 
-Is er een internetcafé?
+- I'd like to have some passport photos taken
+**Ik wil graag pasfoto's laten maken**
 
-Is there an internet cafe? iz Des en intmet heffee?
+### Problems
 
-Waar kan ik mijn e-mail bekijken?
+- My camera is not working, can you repair it, please?
+**Mijn camera doet het niet, kunt u hem repareren?**
 
-Where can lopen my e-mail? toe» ken aj oopn maj i§.meel?
+- The memory card is stuck, could you get it out for me, please?
+**De geheugenkaart zit vast, kunt u hem er voor mij uithalen?**
 
-Hoeveel kost het gebruik van een computer per halfuur/uur?
+- The lens does not open
+**De lens gaat niet open**
 
-How much is the use of a computer per half hour/hour? hau mutsj iz De joes ov a kompjQ!l.ta puh hahf auelaus?
+- Should I replace the batteries?
+**Moet ik de batterijen vervangen?**
 
-2.5 Foto en video
+- The flash isn't working
+**De flitser doet het niet**
 
-Ik ben op zoek naar een geheugenkaart voor deze camera Have you got a memory card for this camera?
-
-hev joe got a memrie kahd Ja Dis kemr»?
-
-Ik wil graag een geheugenkaart van .. , MB/GB I'd like a memory card of .. , MB/GB
-
-ajd lajk a memrie kahd su '" embieldzjiebie
-
-Hoeveel foto's kan ik met deze geheugenkaart maken?
-
-How many pictures can I take with this memory card? hau mennie Pikstjaz ken aj teek wiD Dis memtie kahd?
-
-Ik wil graag een nieuwe accu voor deze camera Can I have a new battery for this camera, please? ken aj hev a njoe bçttrie Ja Dis kçmr», pliez?
-
-Hebt u ook wegwerpcamera's?
-
-Have you got disposable cameras? hev joe got dispQQzabl hemrsz?
-
-Ik ben op zoek naar mini-DV-tapes/ dvd's voor deze camera Have you got mini-DV-tapes/dvd's for this camera?
-
-hev joe got minie dievie teepsl diemdiez Ja Dis k!l_mra?
-
-Hebt u ook AA/AAA-batterijen?
-
-Have you got AAJAAA batteries? hev joe got ee eelee ee ee bettriez?
-
-Hebt u ook knoopcelbatterijen?
-
-Have you got battery cells? hev joe got beurie selz?
-
-Hebt u ook oplaadbare batterijen?
-
-Have you got lithium batteries? hev joe got liSiam bettnez?
-
-Ik zoek een batterijoplader
-
-I'd like to have a battery charger ajd lajk ts hev a bettrie tsjqhdzj»
-
-Ik wil graag pasfoto's laten maken
-
-I'd like to have some passport photos taken ajd lajk toe hev sum pçhspohi JQQtooz teekan
-
-• Problemen
-
-Mijn camera doet het niet, kunt u hem repareren?
-
-My camera is not working, can you rep air it, please? maj hemr» iz not wy_hking, ken joe rip!l_a ie, pliez?
-
-De geheugenkaart zit vast, kunt u hem er voor mij uithalen?
-
-The memory card is stuck, could you get it out for me, please? De m!l_mrie kahd iz stuk, koed joe get ie aut Ja mie, pliez?
-
-De lens gaat niet open The lens does not open De lens duz not QQPan
-
-Moet ik de batterijen vervangen?
-
-Should I replace the batteries? sjoed aj ripl§.!l.s De betnez?
-
-De flitser doet het niet The flash isn't working D» flesj iznt wy_hking
-
+- **How long is it going to take to repair?**
 Hoe lang gaat de reparatie duren?
 
-How long is it going to take to rep air? hau long iz ie gQQwing toe teek toe repçs?
+### Prints and storing
 
-• Afdrukken en opslaan
+- I'd like to have prints made of digital files
+**Ik wil afdrukken maken van digitale bestanden**
 
-Ik wil afdrukken maken van digitale bestanden I'd like to have prints made of digital files
+- I'd like to store photos on a cd/dvd
+**Ik wil graag foto's op een cd/dvd zetten**
 
-ajd lajk toe hev prints meed ov didziid Jajlz
+- Could you transfer the photos on my camera to this USB-stick?
+**Kunt u de foto's van mijn camera op deze USB-stick zetten?**
 
-Ik wil graag foto's op een cd/dvd zetten
+- I'd like ... prints from each negative
+**Kunt u ... afdrukken van elke foto voor me maken?**
 
-I'd like to store photos on a cdldvd
+- glossy/mat(t)
+**glanzend/mat**
 
-ajd lajk toe stoh JQQtooz on a siedieldieviedie
+- four by six (inches)
+**10 × 15 (tien bij vijftien)**
+ 
+- I'd like to have this photo enlarged
+**Ik wil deze foto laten vergroten**
 
-Kunt u de foto's van mijn camera op deze USB-stick zetten?
+- How much is printing?
+**Hoe duur is het afdrukken?**
 
-Could you transfer the photos on my camera to this USB-stick? koed joe trensfuh' De fççtooz on maj kemr» toe Dis joe es bie stik?
+- When will they be ready?
+**Wanneer zijn ze klaar?**
 
-Kunt u .. , afdrukken van elke foto voor me maken?
+## 2.6 The weather
 
-I'd like .. ' prints from each negative ajd lajk '" prints from ietsj n!l.ffffativ glanzend/mat
+- Is the weather going to be good/bad?
+**Wordt het mooi/slecht weer?**
 
-glossy/mat(t)
+- How many degrees is it going to be?
+**Hoeveel graden wordt het?**
 
-gLQssielmet
+- Is it going to rain?
+**Gaat het regenen?**
 
-10)( 15 [tien bij vijftien) four by six (inches) Joh baj siks (intsjsz)
+- Is there going to be a storm?
+**Wordt er storm verwacht?**
 
-Ik wil deze foto laten vergroten
+- Is it going to snow tomorrow?
+**Gaat het morgen sneeuwen?**
 
-I'd like to have this photo enlarged ajd lajk toe hev Dis JQQtoo inlçhdzjd Hoe duur is het afdrukken?
+- Is there going to be afrost?
+**Verwacht u dat het gaat vriezen?**
 
-How much is printing? hau mutsj iz printing?
+- Is the thaw setting in?
+**Gaat het dooien?**
 
-Wanneer zijn ze klaar?
+- Is it going to be foggy?
+**Is er mist voorspeld?**
 
-When will they be ready? wen wil Dee bie reddie?
+- Is there going to be a thunderstorm?
+**Komt er onweer?**
 
-2.6 Het weer
+- The weather's changing
+**Het weer slaat om**
 
-Wordt het mooi/slecht weer?
+- It's cooling down us
+**Het koelt af**
 
-Is the weather going to be goodlbad? iz De weDa gQQwing toe bie goedlbed?
+- What's the weather going to be like today/tomorrow?
+**Wat voor weer wordt het vandaag/morgen?**
 
-Hoeveel graden wordt het?
+- Is it going to stay like this?
+**Blijft het zo?**
 
-How many degrees is it going to be? hau m!l_nnie dign..§.z iz ie gQQwing toe bie?
+---
 
-Gaat het regenen?
+- **... graden (boven/onder nul]**
+... degrees (above/below zero)
 
-Is it going to rain?
+- **ijzel**
+black ice
 
-iz u goowing toe reen?
+- **kil**
+chilly
 
-Wordt er storm verwacht?
+- **onbewolkt**
+clear
 
-Is there going to be a storm? iz Des gQQwing toe bie a stohm?
+- **bewolkt**
+cloudy
 
-Gaat het morgen sneeuwen?
+- **koud**
+cold
 
-Is it going to snow? iz it gQQwing toe snoo?
+- **motregen**
+drizzle
 
-Verwacht u dat het gaat vriezen?
+- **mooi**
+fine
 
-Is there going to be afrost? iz Des gQQwing ra bie afrost?
+- **mist**
+fog
 
-Gaat het dooien?
+- **vorst**
+frost
 
-Is the thaw setting in? iz De Soh seuing in?
+- **heet**
+hot
 
-Is er mist voorspeld?
+- **zacht**
+mild
 
-Is it going to be foggy?
+- **benauwd**
+muggy
 
-iz ie gQQwing toe bie JQjgie?
+- **betrokken**
+overcast
 
-Komt er onweer?
+- **regen**
+rain
 
-Is there going to be a thunderstorm? iz Des gQQwing toe bie a Sundsstohm?
+- **regenbui**
+shower
 
-Het weer slaat om
+- **sneeuw**
+snow
 
-The weather's changing De wgDaz tsj§.!l.ndzjing Het koelt af
+- **rukwinden**
+squalls
 
-It's cooling down us kQ!l.ling daun
+- **zonnig**
+sunny
 
-Wat voor weer wordt het vandaag/morgen?
+- **onweersbui**
+thunderstorm
 
-What's the weather going to be like today/tomorrow? uiots De wgDa gQQwing toe bie lajk tsdeeltsmçrroo?
+- **regenachtig**
+wet
 
-Blijft het zo?
+---
 
-Is it going to stay like this?
+### Small talk about the weather
 
-iz it gQQwing toe Slee lajk Dis? •
+- It's so hot/cold today!
+**Wat is het warm/koud vandaag!**
 
-.. , degrees (abovelbelow zero) .. , graden (boven/onder nul]
+- Nice weather, isn't it?
+**Lekker weer, hè?**
 
-black ice ijzel
+- It's so windy/what a storm!
+**Wat een wind/storm!**
 
-chilly kil
+- All that rain/snow!
+**Wat een regen/sneeuw!**
 
-clear onbewolkt
+- Has the weather been like this for long here?
+**Is het hier allang zulk weer?**
 
-cloudy bewolkt
+- Is it always this hot/cold here?
+**Is het hier altijd zo warm/koud?**
 
-cold koud
+- Is it always this dry/wet here?
+**Is het hier altijd zo droog/nat?**
 
-drizzle motregen
+- We often have rainy weather
+**Bij ons regent het vaak**
 
-fine m~
+## 2.7 Safety
 
-fog mist
+- Is it safe to visit that area?
+**Is dat een veilige wijk om te bezoeken?**
 
-frost vorst
+- Can a woman go there unaccompanied?
+**Kan ik daar als vrouw alleen naartoe?**
 
-hot heet
+- Is it safe to go out at night here?
+**Kan ik hier 's avonds veilig over straat?**
 
-mild zacht
+- Is the (tap)water safe to drink?
+**Is het (kraan)water drinkbaar?**
 
-muggy benauwd-
+- There's no train service today because of a suspicious package
+**De treinen rijden niet vanwege een verdacht pakketje**
 
-overcast betrokken
+- The hotel will be evacuated because of a bomb scare
+**Het hotel wordt ontruimd vanwege een bommelding**
 
-rain regen
+- Are there dangerous wild animals about?
+**Zitten hier gevaarlijke wilde dieren?**
 
-shower regenbui
+- Do you often get earthquakes/volcanic eruptions here?
+**Komen hier vaak aardbevingen/vulkaanuitbarstingen voor?**
 
-snow sneeuw
+- Is there a risk of a flood or an avalanche?
+**Is er kans op een overstroming/lawine?**
 
-squalls rukwinden
+- Is it safe to thumb a lift here?
+**Kan ik in deze omgeving veilig liften?**
 
-sunny zonnig
+- Are there malaria mosquitoes here?
+**Zijn hier malariamuggen?**
 
-thunderstorm onweersbui
+- Have these needies been sterilized?
+**Zijn deze naalden steriel?**
 
-wet regenachtig
+- Is this a safe camping area?
+**Is het hier veilig om te kamperen?**
 
-• Een praatje over het weer
-
-Wat is het warm/koud vandaag!
-
-It's so hot/cold today! its soo hotlkoold tad§.!l.! lekker weer, hè?
-
-Nice weather, isn't it? najs weDa, iznt it?
-
-Wat een wind/storm!
-
-It's so windy/what a storm! its soo unndiehuot a stohm!
-
-Wat een regen/sneeuw!
-
-All that rainfsnow! ohl Det reenlsnoo!
-
-Is het hier allang zulk weer?
-
-Has the weather been like this for long here? hez Ds w!l_Da bien lajk Dis Joh long hia?
-
-Is het hier altijd zo warm/koud?
-
-Is it always this hot/cold here? iz it çhlueez Dis hotlkoold hia?
-
-Is het hier altijd zo droog/nat?
-
-Is it always this dry/wet here? iz ie ohluieez Dis draj/wet hia?
-
-Bij ons regent het vaak
-
-We often have rainy weather wie çfrn hev r!l_!l.nie w!l_Da
-
-2.7 Veiligheid
-
-Is dat een veilige wijk om te bezoeken?
-
-Is it safe to visit that area? is ie seef toe vizit Dei !l_aria?
-
-Kan ik daar als vrouw alleen naartoe?
-
-Can a woman go there unaccompanied? ken a wQ_eman goo Des unskumpmied?
-
-Kan ik hier 's avonds veilig over straat?
-
-Is it safe to go out at night here? is it seef toe goo aut el najt Dee?
-
-Is het [kraan)water drinkbaar?
-
-Is the (tap)water safe to drink? iz De tgpwohta seef toe drink?
-
-De treinen rijden niet vanwege een verdacht pakketje
-
-There's no train service today because of a suspicious package Desz noo treen suhsns toedee bikohz av a suspisjes p!l_kkidzj
-
-Het hotel wordt ontruimd vanwege een bommelding
-
-The hotel will be evacuated because of a bomb scare
-
-De hootei wil bie iev!l_kjoe-eetid bikohs: su a bom ske»
-
-Zitten hier gevaarlijke wilde dieren?
-
-Are there dangerous wild animals about? ah Des d§.çndzjaras wajld ennimslz sbaut?
-
-Komen hier vaak aardbevingen/vulkaanuitbarstingen voor?
-
-Do you often get earthquakes/volcanic eruptions here? doe joe oftm get y_hSkweeks/volk§.nnik irupsjmz hia?
-
-Is er kans op een overstroming/lawine?
-
-Is there a risk of a f100d or an avalanche? iz Deer a risk ov a flud oh en !l_valansj?
-
-Kan ik in deze omgeving veilig liften?
-
-Is it safe to thumb a lift here? iz it seef toe Sum a lift hia?
-
-Zijn hier malariamuggen?
-
-Are there malaria mosquitoes here? ah Des mal!l_aria moshietooz hia?
-
-Zijn deze naalden steriel?
-
-Have these needies been sterilized? hev Diez niedlz bien sterilajzd?
-
-Is het hier veilig om te kamperen?
-
-Is this a safe camping area? iz Dis a seef k!l_mping !l_aria?
-
-Moeten we nog bepaalde voorzorgsmaatregelen nemen?
-
-Do we have to take special precautions? doe wie hev toe teek spesjl prihçhsjmz?
-
+- Do we have to take special precautions?
+**Moeten we nog bepaalde voorzorgsmaatregelen nemen?**
