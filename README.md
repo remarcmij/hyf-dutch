@@ -46,7 +46,7 @@ To access the application, point your browser to:
 http://localhost:8080
 ```
 
-At this time the only functionality is the ability to browse the available files and p
+At this time the only functionality is the ability to browse the available files and click on Dutch texts to hear them spoken out using speech synthesis.
 
 ## The data files
 
@@ -62,7 +62,7 @@ Further headings (h1..h5) can be added using the markdown repeated `#` sign but 
 
 All text with double asterisks, a markdown syntax for making text **bold**, is given the additional interpretation of signifying Dutch text. Text enclosed within double underscores is also made __bold__ in markdown but is not interpreted as Dutch by the app.
 
-A special format must be used for phrase/translation pairs that are to included in the searchable index (WIP). They should consist of a markdown underordered list item consisting of two lines, for example:
+A special format must be used for phrase/translation pairs that are to included in the searchable index (WIP). They should consist of a markdown unordered list item consisting of two lines, for example:
 
 ```
 - **Dutch phrase**
@@ -76,13 +76,13 @@ or
 **Dutch translation**
 ```
 
-When markdown file are change or added in the `data` folder, server should be stopped with `Ctrl-C` and the loader should be run again:
+When markdown files are changed in or added to the `data` folder, the server should be stopped with `Ctrl-C` and the loader should be run again:
 
 ```
 npm run loader
 npm start
 ```
 
-The data folder also contains text files with a `.txt` extension. They will used for the search facility to prevent certain words (stop words) being indexed.
+Note that the data folder also contains text files with a `.txt` extension. They will used for the search facility to prevent certain words (stop words) being indexed.
 
 
