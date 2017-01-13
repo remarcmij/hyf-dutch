@@ -1,0 +1,11 @@
+{
+  "name": "hyf-dutch",
+  "version": "1.0.0",
+  "description": "Learning Dutch for Hack Your Future students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hack Your Future",
+  "license": "ISC"
+}
