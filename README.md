@@ -60,7 +60,7 @@ The application adds a layer of interpretation on top of the base markdown synta
 
 Further headings (h1..h5) can be added using the markdown repeated `#` sign but are not given further interpretation by the app.
 
-All text with double asterisks, a markdown syntax for making text **bold**, is given the additional interpretation of signifying Dutch text. Text enclosed within double underscores is also made __bold__ in markdown but is not interpreted as Dutch by the app.
+All text within double asterisks, a markdown syntax for making text **bold**, is given the additional interpretation of signifying Dutch text. Text enclosed within double underscores is also made __bold__ in markdown but is not interpreted as Dutch by the app.
 
 A special format must be used for phrase/translation pairs that are to included in the searchable index (WIP). They should consist of a markdown unordered list item consisting of two lines, for example:
 
