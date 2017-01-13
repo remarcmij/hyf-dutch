@@ -22,7 +22,7 @@ Although not strictly required, it is recommended to view/modify/debug this appl
 
 ## Installation
 
-After cloning the repository from GitHub, type the following command to install node dependencies:
+After cloning the repository from GitHub, `cd` into the `hyf-dutch` directory and type the following command to install the node dependencies:
 
 ```
 npm install
@@ -51,4 +51,38 @@ At this time the only functionality is the ability to browse the available files
 ## The data files
 
 The data files with the language content shown in the browser are held with the `data` folder of the application. These data files are in **markdown** format and have a file extension of `.md`.
+
+The application adds a layer of interpretation on top of the base markdown syntax. Each file must start with an **h1** header, in markdown signified by a `#` sign:
+
+```
+# This is the main title
+```
+
+Further headings (h1..h5) can be added using the markdown repeated `#` sign but are not given further interpretation by the app.
+
+All text with double asterisks, a markdown syntax for making text **bold**, is given the additional interpretation of signifying Dutch text. Text enclosed within double underscores is also made __bold__ in markdown but is not interpreted as Dutch by the app.
+
+A special format must be used for phrase/translation pairs that are to included in the searchable index (WIP). They should consist of a markdown underordered list item consisting of two lines, for example:
+
+```
+- **Dutch phrase**
+English translation
+```
+
+or
+
+```
+- English phrase
+**Dutch translation**
+```
+
+When markdown file are change or added in the `data` folder, server should be stopped with `Ctrl-C` and the loader should be run again:
+
+```
+npm run loader
+npm start
+```
+
+The data folder also contains text files with a `.txt` extension. They will used for the search facility to prevent certain words (stop words) being indexed.
+
 
